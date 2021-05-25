@@ -2,8 +2,11 @@
   Hi there 👋 I'm Sławomir 👨‍💻
 </h1>
 
-<p align='center'>
+<h1 align='center'>
   A student from Poland 
+</h1>
+<p align='center'>
+  📫 How to reach me: <a href='mailto:mendykaslawomir@gmail.com'>mendykaslawomir@gmail.com</a>
 </p>
 
 <!--
@@ -48,8 +51,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">🌱 I’m currently learning <b>React</b> and  <b>React Native</b> </h4>
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:mendykaslawomir@gmail.com'>mendykaslawomir@gmail.com</a>
-</p>
 
-<img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thewilkupl&count_private=true" />
+<p align='center'>
+<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thewilkupl&count_private=true" />
+</p>
