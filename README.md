@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thewilkupl&theme=radical&column=3&margin-w=15&margin-h=15"
  alt="highlighted-dev" /></a> </p>
  
+ <h3>💻 Languages, Frameworks and Tools:</h3><br/><br/>
  <p align='center'>
-  💻 <h3>Languages, Frameworks and Tools:</h3><br/><br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -44,9 +44,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  
-  
-  
 </p>
 
 <h4 align="center">🌱 I’m currently learning <b>React</b> and  <b>React Native</b> </h4>
@@ -55,4 +52,4 @@ Here are some ideas to get you started:
   📫 How to reach me: <a href='mailto:mendykaslawomir@gmail.com'>mendykaslawomir@gmail.com</a>
 </p>
 
-<img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=helloroman&count_private=true" />
+<img align="center" alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thewilkupl&count_private=true" />
