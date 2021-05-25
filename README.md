@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thewilkupl&theme=radical&column=3&margin-w=15&margin-h=15"
  alt="highlighted-dev" /></a> </p>
  
- <h3>💻 Languages, Frameworks and Tools:</h3><br/><br/>
+ <h3 align='center'>💻 Languages, Frameworks and Tools:</h3><br/><br/>
  <p align='center'>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
