@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thewilkupl&theme=onedark" alt="highlighted-dev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thewilkupl&theme=radical&column=3&margin-w=15&margin-h=15"
+ alt="highlighted-dev" /></a> </p>
+
+<h4 align="center">🌱 I’m currently learning <b>React</b> and  <b>React Native</b> </h4>
