@@ -8,6 +8,9 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:mendykaslawomir@gmail.com'>mendykaslawomir@gmail.com</a>
 </p>
+<p align='center'>
+  Check out my <a href='slawomir.me'>website</a>
+</p>
 
 
 
