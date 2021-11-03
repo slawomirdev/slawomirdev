@@ -3,11 +3,13 @@
 </h1>
 
 <h1 align='center'>
-  A student from Poland 
+  WSB Poznań, Computer Science student.
 </h1>
 <p align='center'>
   📫 How to reach me: <a href='mailto:mendykaslawomir@gmail.com'>mendykaslawomir@gmail.com</a>
 </p>
+
+
 
 <!--
 **thewilkupl/thewilkupl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
