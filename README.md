@@ -9,7 +9,7 @@
   📫 How to reach me: <a href='mailto:mendykaslawomir@gmail.com'>mendykaslawomir@gmail.com</a>
 </p>
 <p align='center'>
-  Check out my <a href='slawomir.me'>website</a>
+  Check out my <a target="_blank" href='https://www.slawomir.me'>website</a>
 </p>
 
 
