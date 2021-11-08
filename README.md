@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-<h4 align="center">🌱 I’m currently learning <b>React</b> and <b>TypeScript</b></h4>
+
 
 
 <p align='center'>
