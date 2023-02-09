@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=thewilkupl&count_private=true" />
+<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=slawomirdev&count_private=true" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=thewilkupl)
